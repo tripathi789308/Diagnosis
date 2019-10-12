@@ -3,7 +3,7 @@ It will ask various set of question about how user is feeling and give appropria
 
 
 Build in Python environment using tkinter library.
-A very basic program to predict one's Diseases using Sympotoms
+A very basic program to predict one's Diseases using Symptoms that one is feeling.
 
 It will prompt four Options to every question, user has the freedom to choose any one or more of the options
 that will help the program to predict next question or the disease one is suffering from.
