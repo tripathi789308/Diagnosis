@@ -1,0 +1,66 @@
+[
+ {
+	"ID":"1",
+	"Question":"How are you feeling?",
+	"Option1":"Feeling uneasiness,Dizziness,Sleep problems",
+	"Option2":"Feeling Feverish",
+	"Option3":"Runny nose,pain in swallowing,Sneezing,Headache or Bodyache",
+	"Option4":"Lumpy or Hard Stools"
+ },
+ {
+	"ID":"2",
+	"Question":"Which of following symptoms are you feeling?",
+	"Option1":"Cold sweaty hands,Numbness in hands or feet",
+	"Option2":"Shortness of Breath,Fast heart beating",
+	"Option3":"Tense Muscles,Body Pain",
+	"Option4":"Chills and Shivering",
+ },
+ {
+	"ID":"3",
+	"Question":"Which of following symptoms are you feeling?",
+	"Option1":"Runny nose,Sneezing,Headache or Bodyache",
+	"Option2":"Coughing and Sore throat",
+	"Option3":"Straining in Bowel Movements",
+	"Option4":"Difficulty in swallowing",
+ },
+ {
+	"ID":"4",
+	"Question":"Which of following symptoms are you feeling?",
+	"Option1":"Feeling that you can't completely empty Stool",
+	"Option2":"Fewer than 3 Stools in a week",
+	"Option3":"low Feverish",
+	"Option4":"Straining to have bowel movements"
+ },
+ {
+	"ID":"5",
+	"Question":"Which of following symptoms are you feeling?",
+	"Option1":"Difficulting in Swallowing",
+	"Option2":"Pain worsen every time you talk",
+	"Option3":"low Fever with Chills and shivering",
+	"Option4":"Stuffy and runny nose"
+ },
+ {
+	"ID":"6",
+	"Question":"Which of following symptoms are you feeling?",
+	"Option1":"Sudden onset of Coughing",
+	"Option2":"Coughing since  less than 3 weeks",
+	"Option3":"Coughing while swallowing",
+	"Option4":"Chills and Shivering"
+ },
+ {
+	"ID":"7",
+	"Question":"Which of following symptoms are you feeling?",
+	"Option1":"General Weakness",
+	"Option2":"Shivering and chills",
+	"Option3":"Fluid Filled blisters,red or burning near mouth or on fingers",
+	"Option4":"Irritability and loss of appetite"
+ },
+ {
+	"ID":"8",
+	"Question":"Which of following symptoms are you feeling?",
+	"Option1":"Fluid Filled blisters,red or burning near mouth or on fingers",
+	"Option2":"swollen lymph nodes on neck,sensitive gums of deep red",
+	"Option3":"Feeling body is warm",
+	"Option4":"Chills and shivering"
+ }
+]
