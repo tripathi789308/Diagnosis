@@ -349,6 +349,7 @@ class anxiety(Frame):
         txt=Text(self,height=25,width=90)
         txt.place(x=20,y=130)
         txt.insert(END,quote)
+        button2=Button(self,text="  HOME  ",font="20",fg="Blue",command=lambda:controller.show_frame(startpage)).place(x=35,y=530)
 
 class commoncold(Frame):
     def __init__(self,parent,controller):
@@ -368,6 +369,7 @@ class commoncold(Frame):
         txt1=Text(self,height=13,width=90)
         txt1.place(x=20,y=350)
         txt1.insert(END,quote2)
+        button2=Button(self,text="  HOME  ",font="20",fg="Blue",command=lambda:controller.show_frame(startpage)).place(x=35,y=530)
 
 class sorethroat(Frame):
     def __init__(self,parent,controller):
@@ -387,6 +389,7 @@ class sorethroat(Frame):
         txt1=Text(self,height=5,width=90)
         txt1.place(x=20,y=350)
         txt1.insert(END,quote4)
+        button2=Button(self,text="  HOME  ",font="20",fg="Blue",command=lambda:controller.show_frame(startpage)).place(x=35,y=530)
 
 class fever(Frame):
     def __init__(self,parent,controller):
@@ -406,6 +409,7 @@ class fever(Frame):
         txt1=Text(self,height=10,width=90)
         txt1.place(x=20,y=350)
         txt1.insert(END,quote6)
+        button2=Button(self,text="  HOME  ",font="20",fg="Blue",command=lambda:controller.show_frame(startpage)).place(x=35,y=530)
 
 class constipation(Frame):
     def __init__(self,parent,controller):
@@ -425,6 +429,7 @@ class constipation(Frame):
         txt1=Text(self,height=10,width=90)
         txt1.place(x=20,y=350)
         txt1.insert(END,quote8)
+        button2=Button(self,text="  HOME  ",font="20",fg="Blue",command=lambda:controller.show_frame(startpage)).place(x=35,y=530)
 
 class cough(Frame):
     def __init__(self,parent,controller):
@@ -444,6 +449,7 @@ class cough(Frame):
         txt1=Text(self,height=15,width=90)
         txt1.place(x=20,y=275)
         txt1.insert(END,quote10)
+        button2=Button(self,text="  HOME  ",font="20",fg="Blue",command=lambda:controller.show_frame(startpage)).place(x=35,y=530)
 
 class coldsore(Frame):
     def __init__(self,parent,controller):
@@ -457,6 +463,7 @@ class coldsore(Frame):
         txt=Text(self,height=15,width=90)
         txt.place(x=20,y=130)
         txt.insert(END,quote11)
+        button2=Button(self,text="  HOME  ",font="20",fg="Blue",command=lambda:controller.show_frame(startpage)).place(x=35,y=530)
 
 def decider1(dic):
     dic1={"1":0,"2":0,"3":0,"4":1}
