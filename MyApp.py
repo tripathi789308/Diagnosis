@@ -132,6 +132,7 @@ class window(Tk):
     def show_frame(self,cont):
         frame=self.frames[cont]
         frame.tkraise()
+
 class startpage(Frame):
     def __init__(self,parent,controller):
         Frame.__init__(self,parent)
