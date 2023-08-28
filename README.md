@@ -37,6 +37,11 @@ Welcome to the Disease Predictor App! This Python application, built using Tkint
 4. Run the app: `python main.py`
 5. Follow the on-screen instructions to enter symptoms and get disease predictions.
 
+## Screenshots
+![image](https://github.com/tripathi789308/Diagnosis/assets/42732015/72bf4f48-347e-43d9-90f1-036ef33e39c8)
+![image](https://github.com/tripathi789308/Diagnosis/assets/42732015/e3199820-ed49-4db0-aa78-40d44702241b)
+![image](https://github.com/tripathi789308/Diagnosis/assets/42732015/14f8cd0c-9d20-4c3c-834c-f42a52a29671)
+
 ## Usage
 
 1. Launch the app and enter the symptoms you're experiencing.
