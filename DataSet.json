@@ -13,7 +13,7 @@
 	"Option1":"Cold sweaty hands,Numbness in hands or feet",
 	"Option2":"Shortness of Breath,Fast heart beating",
 	"Option3":"Tense Muscles,Body Pain",
-	"Option4":"Chills and Shivering",
+	"Option4":"Chills and Shivering"
  },
  {
 	"ID":"3",
@@ -21,7 +21,7 @@
 	"Option1":"Runny nose,Sneezing,Headache or Bodyache",
 	"Option2":"Coughing and Sore throat",
 	"Option3":"Straining in Bowel Movements",
-	"Option4":"Difficulty in swallowing",
+	"Option4":"Difficulty in swallowing"
  },
  {
 	"ID":"4",
